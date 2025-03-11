@@ -22,7 +22,7 @@ This project is a web-based interactive **map** and **data visualization tool** 
 If you have **Live Server** installed in VS Code, follow these steps:
 1. **Clone this repository**:
    ```sh
-   git clone https://github.com/yourusername/nepal-population-map.git
+   git clone https://github.com/BhojRajBist/nepal-population-map.git
    cd nepal-population-map
    ```
 2. **Open the project in VS Code**.
@@ -37,7 +37,7 @@ If you have **Live Server** installed in VS Code, follow these steps:
 - ✅ Enhance **user interaction** with hover tooltips.
 
 ---
-📌 **Author**: Your Name  
-📧 **Contact**: your.email@example.com  
+📌 **Author**: Bhoj Raj Bist  
+📧 **Contact**: bhojbist1@gmail.com 
 📌 **License**: MIT
 
